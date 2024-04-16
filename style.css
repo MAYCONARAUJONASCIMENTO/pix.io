@@ -39,15 +39,15 @@ a{
     margin: 0px 10px;
     color: #ffffff;
     font-weight: 600;
-    font-family: cursive;
+     font-family: 'monica-ext-font_YIBBBFG';
 }
 p{
-    font-family: 'monica-ext-font_YIBBBFG';
+   font-family: cursive;
     flex-direction: column;
     display: flex;
     align-items: center;
     justify-content: center;
-    top: 255px;
+    top: 200px;
     position: absolute;
     color: #ffffff;
 }
